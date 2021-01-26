@@ -19,6 +19,9 @@
     <title>{{ config('app.name', 'Laravel') }}</title>
 
     <!-- Styles -->
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js">
+    </script>
+    
     <link href="{{ asset('css/app.css') }}" rel="stylesheet">
 </head>
 <body>
